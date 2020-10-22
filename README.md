@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Sahil 👋
 
-<!--
-**gadimbaylisahil/gadimbaylisahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like writing software. It also happens to be my job. These days I am working on:
 
-Here are some ideas to get you started:
+- Remote consulting & enginnering @[lightfulweb](https://www.lightfulweb.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building payment APIs and services with @[betterpayment](https://www.betterpayment.de)
+
+- Blogging about day to day tech challanges on @[ramblingcode](https://www.ramblingcode.dev)
+
+- I love open source and try to contribute to projects I use. If you have an interesting project that happens to use
+  Rails/Ruby/Javascript, hit me up if you want to collaborate.
+  
+You can find me on my [website](https://www.sahilgadimbayli.com) or contact me contact[at]sahilgadimbayli.com
