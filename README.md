@@ -2,9 +2,9 @@
 
 I like writing software. It also happens to be my job. These days I am working on:
 
-- Remote consulting & enginnering on [lightfulweb](https://www.lightfulweb.com)
+- Remote consulting & engineering on [lightfulweb](https://www.lightfulweb.com)
 
-- Building payment APIs and services with [betterpayment](https://www.betterpayment.de)
+- Building payment APIs & services with [betterpayment](https://www.betterpayment.de)
 
 - Blogging about day to day tech challanges on [ramblingcode](https://www.ramblingcode.dev)
 
