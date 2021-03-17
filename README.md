@@ -1,6 +1,6 @@
 ### Hi there, I am Sahil 👋
 
-I like writing software. It also happens to be my job. These days I am working on:
+I like writing software and it also happens to be my job. These days I am working on:
 
 - Remote consulting & engineering on [lightfulweb](https://www.lightfulweb.com)
 
@@ -8,7 +8,7 @@ I like writing software. It also happens to be my job. These days I am working o
 
 - Blogging about day to day tech challanges on [ramblingcode](https://www.ramblingcode.dev)
 
-- I love open source, and try to contribute to projects I use. If you have an interesting project that happens to use
+- I love open source, minimalistic tools, linux and lots of Ruby. If you have an interesting project that happens to use
   Rails/Ruby/Javascript, hit me up for collaboration.
   
-You can find me on my [website](https://www.sahilgadimbayli.com) or contact me contact[at]sahilgadimbayli.com
+You can find me on my [website](https://www.sahilgadimbayli.com) or contact me at contact[at]sahilgadimbayli.com
