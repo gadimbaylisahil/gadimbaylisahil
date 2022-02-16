@@ -8,6 +8,8 @@ I like writing software and it also happens to be my job. These days I am workin
 
 - Blogging about day to day tech challanges on [ramblingcode](https://www.ramblingcode.dev)
 
+- Scrathing [dev diary](https://devdocs.ramblingcode.dev)
+
 - I love open source, minimalistic tools, linux and lots of Ruby. If you have an interesting project that happens to use
   Rails/Ruby/Javascript, hit me up for collaboration.
   
