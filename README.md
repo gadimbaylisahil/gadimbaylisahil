@@ -2,11 +2,11 @@
 
 I like writing software and it also happens to be my job. These days I am working on:
 
-- Consulting and engineering for SME businesses with [lightfulweb](https://www.lightfulweb.com)
+- Consulting and engineering for SME businesses with [lightfulweb](https://www.lightfulweb.com). We are a team of 5!
 
-- Building payment APIs & services with [betterpayment](https://www.betterpayment.de)
+- Building payment APIs & services for [betterpayment](https://www.betterpayment.de), now part of Deutsche Bank.
 
-- Blogging about day to day tech challanges on [ramblingcode](https://www.ramblingcode.dev)
+- Blogging about day to day tech challanges on [lightfulweb's blog](https://www.lightfulweb.com/blog)
 
 - Scrathing a [dev diary](https://devdocs.ramblingcode.dev)
 
